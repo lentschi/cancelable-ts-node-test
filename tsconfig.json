@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "importHelpers": true,
+        "noImplicitAny": false,
+        "typeRoots": ["node_modules/@types", "custom-typings"],
+        "target": "es2015",
+        "module": "commonjs",
+        "moduleResolution": "node"
+    }
+}
